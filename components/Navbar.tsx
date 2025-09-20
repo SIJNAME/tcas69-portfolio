@@ -17,7 +17,7 @@ export function Navbar() {
             href="/admin"
             className="px-3 py-2 rounded hover:bg-blue-700 transition"
           >
-            Admin
+            สำหรับอาจารย์
           </Link>
         </div>
       </div>
